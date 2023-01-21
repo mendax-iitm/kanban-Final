@@ -1,0 +1,15 @@
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+flask-restful
+Flask-Security
+flask-bcrypt
+flask-cors
+flask-jwt-extended
+flask-security-too
+matplotlib
+redis
+celery[redis]
+jinja2
+flask_weasyprint
+Flask-Caching
+Pillow
