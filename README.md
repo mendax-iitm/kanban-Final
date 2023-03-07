@@ -10,7 +10,7 @@ On the terminal change the directory to backend run the following command
 
 - sh local_run.sh
 
-And open a new tab On the terminal change the directory to frontend run the following command
+And open a new tab On the terminal change the directory to front run the following command
 
 - npm install
 - vue serve
